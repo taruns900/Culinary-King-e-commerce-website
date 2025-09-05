@@ -8,7 +8,7 @@
 </div>
 
 <br/>
-
+<!--
 <center>
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
   [![forthebadge](https://forthebadge.com/images/badges/made-with-html.svg)](https://forthebadge.com) &nbsp;
@@ -16,7 +16,7 @@
   ![GitHub Repo stars](https://img.shields.io/github/stars/taruns900/Culinary-King-e-commerce-website?color=orange&logo=github&style=for-the-badge) &nbsp;
   ![GitHub forks](https://img.shields.io/github/forks/taruns900/Culinary-King-e-commerce-website?color=blue&logo=github&style=for-the-badge)
 </center>
-
+-->
 <h3 align="center">
   🔹
   <a href="https://github.com/taruns900/Culinary-King-e-commerce-website/issues">Report Bug</a> &nbsp; &nbsp;
