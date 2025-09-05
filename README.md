@@ -1,6 +1,6 @@
 <h2 align="center">
   Culinary King - E-commerce Website (Front-end)<br/>
-  <a href="[[https://your-live-demo-link.vercel.app](https://culinary-king-e-commerce-website-eight.vercel.app/)](https://culinary-king-e-commerce-website-eight.vercel.app/)" target="_blank">Live Demo</a>
+  <a href="https://culinary-king-e-commerce-website-eight.vercel.app/" target="_blank">Live Demo</a>
 </h2>
 
 <div align="center">
